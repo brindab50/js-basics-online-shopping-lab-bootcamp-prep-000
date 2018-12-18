@@ -10,14 +10,17 @@ function setCart(c) {
 }
 
 function addToCart(item) {
- // write your code here
+    for(var i = 1; i < array.length i++ ){
+      
+    }
 }
+
 
 function viewCart() {
-  // write your code here
-}
 
+}
 function total() {
+
   // write your code here
 }
 
