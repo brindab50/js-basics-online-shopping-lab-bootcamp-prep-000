@@ -9,15 +9,14 @@ function setCart(c) {
   return cart;
 }
 
-function addToCart(item) {
- // write your code here
-}
+function addToCart(item) 
 
 function viewCart() {
-  // write your code here
-}
 
+  for(var i = 1; i < array.length i++ )
+}
 function total() {
+
   // write your code here
 }
 
