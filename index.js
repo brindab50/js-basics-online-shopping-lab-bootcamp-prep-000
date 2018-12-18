@@ -10,8 +10,11 @@ function setCart(c) {
 }
 
 function addToCart(item) {
-  
+    for(var i = 1; i < array.length i++ ){
+      
+    }
 }
+
 
 function viewCart() {
 
