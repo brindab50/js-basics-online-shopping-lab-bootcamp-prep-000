@@ -9,11 +9,12 @@ function setCart(c) {
   return cart;
 }
 
-function addToCart(item) 
+function addToCart(item) {
+  
+}
 
 function viewCart() {
 
-  for(var i = 1; i < array.length i++ )
 }
 function total() {
 
